@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fba01ab6.chunk.css",
+    "main.js": "/static/js/main.9bcfd5ef.chunk.js",
+    "main.js.map": "/static/js/main.9bcfd5ef.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.99fe0029.js",
+    "runtime-main.js.map": "/static/js/runtime-main.99fe0029.js.map",
+    "static/css/2.64a99b10.chunk.css": "/static/css/2.64a99b10.chunk.css",
+    "static/js/2.e84e92dc.chunk.js": "/static/js/2.e84e92dc.chunk.js",
+    "static/js/2.e84e92dc.chunk.js.map": "/static/js/2.e84e92dc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8869e811cb34a9e23180536123ffb6a5.js": "/precache-manifest.8869e811cb34a9e23180536123ffb6a5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.fba01ab6.chunk.css.map": "/static/css/main.fba01ab6.chunk.css.map",
+    "static/media/django.jpg": "/static/media/django.d362eab3.jpg",
+    "static/media/racket.jpg": "/static/media/racket.bea696ce.jpg",
+    "static/media/website.jpg": "/static/media/website.07105d67.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99fe0029.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.e84e92dc.chunk.js",
+    "static/css/main.fba01ab6.chunk.css",
+    "static/js/main.9bcfd5ef.chunk.js"
+  ]
+}
