@@ -1,3 +1,6 @@
+var mykey = config.MY_KEY;
+var secretkey = config.SECRET_KEY;
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
@@ -29,7 +32,7 @@ app.post('/api/email', (req, res, next) => {
 
     console.log(req.body);
 
-    sendGrid.setApiKey('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');
+    sendGrid.setApiKey(mykey);
     const msg = {
         to: 'k2seto@uwaterloo.ca',
         from: req.body.email,
