@@ -187,7 +187,7 @@
             var M = function(e) {
                     return l.a.createElement("div", null, l.a.createElement(y, {
                         title: e.title
-                    }), l.a.createElement(L, null, l.a.createElement("p", null, "Hi, I'm Kyle. I'm a first year mathematics student at the University of Waterloo. "), l.a.createElement("p", null, "My hobbies are mountain biking, skiing, and travelling."), l.a.createElement("p", null, "I am constantly learning new things. Currently starting out with learning Node JS, React."), l.a.createElement("p", null, "I am currently working on creating a robot that can lock and unlock my dorm door from the internet.")))
+                    }), l.a.createElement(L, null, l.a.createElement("p", null, "Hi, I'm Kyle. I'm a second year mathematics student at the University of Waterloo. "), l.a.createElement("p", null, "My hobbies are mountain biking, skiing, and travelling."), l.a.createElement("p", null, "I am constantly learning new things. Currently starting out with learning Node JS, React."), l.a.createElement("p", null, "I am currently working on creating widgets.")))
                 },
                 P = a(23),
                 W = a(13),
